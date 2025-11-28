@@ -19,8 +19,8 @@ to Wifi. KEXT is on folder EFI.
 Don't upgrade your hackintosh to MacOS Tahoe 26, just update the system! 
 install homebrew!!
 
-link homebrew: [
-](https://brew.sh)
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)
+
 Attention: You need to use a wired internet connection to install the system on your SSD, as it depends on your network being compatible with HELIPORT, which you can find on GitHub here after installation on your SSD.
 
 link HeliPort: https://github.com/OpenIntelWireless/HeliPort
