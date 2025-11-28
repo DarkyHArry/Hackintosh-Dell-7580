@@ -33,3 +33,5 @@ If the folder doesn't appear in LOCATION in Finder, locate your disk and mount t
 You can use your USB with ANDROID and tethering bluetooth to wifi usb tethering.
 
 Use OCAT and create a ESP and move the EFi in your Pendrive USB to EFI SSD and unmount and reboot your system!
+
+link OCAT: *https://github.com/ic005k/OCAuxiliaryTools/releases/tag/20250001*
