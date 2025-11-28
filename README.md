@@ -23,7 +23,7 @@ link homebrew: [
 ](https://brew.sh)
 Attention: You need to use a wired internet connection to install the system on your SSD, as it depends on your network being compatible with HELIPORT, which you can find on GitHub here after installation on your SSD.
 
-link HeliPort: [(https://github.com/OpenIntelWireless/HeliPort)]
+link HeliPort: https://github.com/OpenIntelWireless/HeliPort
 install and reboot your machine! it's working perfectly!
 
 BR-ABNT2 NOT working! 
