@@ -1,3 +1,5 @@
+EFI ZIP configured! ( MacOS Sequoia 15.7 )
+
 If you have a Dell 7580 notebook model, it may be possible to create a Hackintosh using the following EFI contained in this repository. Remember to format your USB drive to FAT32.
 
 What's Working ?
